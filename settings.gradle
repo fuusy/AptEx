@@ -1,0 +1,7 @@
+rootProject.name = "AptEx"
+include ':app'
+include ':lib-annotation'
+include ':module-one'
+include ':module-two'
+include ':lib-annotation-compiler'
+include ':arouter-api'
